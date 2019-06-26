@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutterwhatsapp/whatsapp_home.dart';
+import 'package:ChatsApp/whatsapp_home.dart';
 import 'package:camera/camera.dart';
 
 List<CameraDescription> cameras;
