@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871968132964",
+    "firebase_url": "https://pocket-doctor-6b860.firebaseio.com",
+    "project_id": "pocket-doctor-6b860",
+    "storage_bucket": "pocket-doctor-6b860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871968132964:android:0afd6390f700ade6567471",
+        "android_client_info": {
+          "package_name": "com.hanmajid.flutterwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871968132964-4034bavlsj3hlt5a0mvg7r1kba5s6m0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoC--IZkXOXmcugj-j3m94XNQfVDWxHEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871968132964-4034bavlsj3hlt5a0mvg7r1kba5s6m0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
